@@ -1,0 +1,11 @@
+.charts-css.line tbody tr td:nth-of-type(10n+1)::before {
+  background: black;
+}
+
+.charts-css.line tbody tr td:nth-of-type(10n+2)::before {
+  background: red;
+}
+
+.charts-css.line tbody tr td:nth-of-type(10n+3)::before {
+  background: green;
+}
